@@ -1,0 +1,21 @@
+body {
+  /* background-color: pink; */
+  background: url(coverbw.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+header {
+}
+button {
+  background-color: rgb(85, 187, 235);
+
+  font-family: sans-serif;
+  font-size: 3rem;
+  color: #070604;
+}
